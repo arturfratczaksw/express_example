@@ -1,0 +1,17 @@
+{
+  "name": "expressexample",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2"
+  },
+  "engines": {
+    "node": "6.9.0", 
+    "npm": "3.10.10"
+  }
+}
